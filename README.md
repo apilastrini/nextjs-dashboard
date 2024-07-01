@@ -18,7 +18,7 @@ The main directives are collected into `/app/ui/global.css`:
 
 Tailwind and CSS modules are the two most common ways of styling Next.js applications. Whether you use one or the other is a matter of preference - you can even use both in the same application!
 
-### Why I'm using the `clsx` library to toggle class names
+### Why I'm using the `clsx` library to toggle class names?
 
 There may be cases where you may need to conditionally style an element based on state or some other condition. `clsx`
 is a library that lets you toggle class names easily:

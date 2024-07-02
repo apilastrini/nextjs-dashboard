@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-![image](https://github.com/apilastrini/nextjs-dashboard/assets/133789773/5bdbdff4-46a5-407e-9ce1-83b683d9e8f0)
+![image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowZHE5Z2N0czVjNnJtZmczM2xpZDR3bnZjcG82MzB1MmcxbjZsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uq3wLkZ2yzpkjvjOvi/giphy.gif)
 
 
 ### Why I'm using Tailwind for style?
